@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SocialSnap</string>
+    <string name="social_name">Nama Akun</string>
+    <string name="searchbar_hint">Masukkan username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tabs_followers">followers</string>
+    <string name="tabs_following">following</string>
+    <string name="favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="share">Share</string>
+    <string name="send_to">Share to</string>
+</resources>
